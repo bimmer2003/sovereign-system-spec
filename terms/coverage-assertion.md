@@ -27,7 +27,7 @@ The governing principle is:
 
 ## Origin
 
-The term **Coverage Assertion** was introduced to the Sovereign Systems Specification in 2026, from the discussion in [issue #1](https://github.com/kenwalger/sovereign-system-spec/issues/1).
+The term **Coverage Assertion** was proposed and contributed to the Sovereign Systems Specification by Nicolás Moreno ([@bimmer2003](https://github.com/bimmer2003)) in 2026, in [issue #1](https://github.com/kenwalger/sovereign-system-spec/issues/1) and [pull request #2](https://github.com/kenwalger/sovereign-system-spec/pull/2), and refined in discussion with Ken W. Alger.
 
 ## Why It Matters
 

@@ -465,6 +465,8 @@ It is required only for receipts or ledger segments that support negative claims
 
 A supported Coverage Assertion is relative to its declared observation resolution and trust anchors. It is not proof of absolute completeness, and it does not by itself establish a negative claim.
 
+**Origin:** Proposed and contributed to the Sovereign Systems Specification by Nicolás Moreno, 2026 ([issue #1](https://github.com/kenwalger/sovereign-system-spec/issues/1), [PR #2](https://github.com/kenwalger/sovereign-system-spec/pull/2)).
+
 ---
 
 # III. Integrity & Provenance
